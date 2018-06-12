@@ -1,0 +1,67 @@
+body {
+    background: url('../images/bodyimage.jpg');
+}
+
+.container {
+   background: white;
+   margin: auto;
+   height: 500px;
+   width: 700px;
+   position: absolute;
+   top: 0;
+   bottom: 0;
+   left: 0;
+   right: 0;
+   opacity: .8;
+   text-align: center;
+}
+
+.timer {
+    width: 700px;
+    height: 200px;
+    margin: auto;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    color: black;
+    text-align: center;
+}
+
+h1 {
+    color: white;
+    font-size: 24px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.answers {
+    width: 700px;
+    height: 200px;
+    margin: auto;
+    position: absolute;
+    top: 200px;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    text-align: center;
+    color: black;
+    font-weight: bold; 
+}
+
+.question {
+    width: 700px; 
+    height: 300px;
+    margin: auto;
+    position: absolute;
+    top: 200px;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    color: black;
+    text-align: center;
+    font-weight: bold;
+}
+
+
