@@ -50,6 +50,48 @@ h1 {
     font-weight: bold; 
 }
 
+.answers2 {
+    width: 700px;
+    height: 200px;
+    margin: auto;
+    position: absolute;
+    top: 300px;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    text-align: center;
+    color: black;
+    font-weight: bold; 
+}
+.answers3 {
+    width: 700px;
+    height: 200px;
+    margin: auto;
+    position: absolute;
+    top: 400px;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    text-align: center;
+    color: black;
+    font-weight: bold; 
+}
+.answers4 {
+    width: 700px;
+    height: 200px;
+    margin: auto;
+    position: absolute;
+    top: 500px;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    text-align: center;
+    color: black;
+    font-weight: bold; 
+}
+
+
+
 .question {
     width: 700px; 
     height: 300px;
